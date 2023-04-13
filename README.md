@@ -28,9 +28,13 @@ Es liegt im Ermessen der Entwicklerinnen und Entwickler, welche Funktionalitäte
 Die genaue Projektstruktur kann je nach den Bedürfnissen und Zielen des Projekts variieren. Hier ist jedoch eine grundlegende Struktur, die als Ausgangspunkt verwendet werden kann:
 
 /
+&nbsp;
 ├── backend/              // Backend-Anwendung mit Spring
+&nbsp;
 ├── frontend/             // Frontend-Anwendung mit Vue.js
+&nbsp;
 ├── weaviate/            // Konfiguration und Integration von Weaviate
+&nbsp;
 └── README.md             // Dokumentation des Projekts
 
 Die genaue Struktur und Organisation des Projekts kann den Bedürfnissen und Zielen des Projekts angepasst werden.
